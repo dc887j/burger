@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    color: black;
+}
+
+img {
+    height: 320px;
+}
+
+button {
+    margin-top: 20px;
+}
+
+p {
+    
+    font-size: 20px;
+}
