@@ -1,4 +1,4 @@
 
-INSERT INTO burgers (burger_name) VALUES ('Cheese Burger');
-INSERT INTO burgers (burger_name) VALUES ('Double Burger');
-INSERT INTO burgers (burger_name) VALUES ('Spicy Burger');
+INSERT INTO burgers (burger_name) VALUES ('Veggie Burger');
+INSERT INTO burgers (burger_name) VALUES ('Double Cheese Burger');
+INSERT INTO burgers (burger_name) VALUES ('Turkey Burger');
